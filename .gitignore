@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+./lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# pycharm
+.idea
+
+# mac
+.DS_Store
+
+# mypy
+.mypy_cache/
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# Jupyter Notebook and other Analysis
+.ipynb_checkpoints
+
+# Django-related:
+*.log
+local_settings.py
+
+# Flask-related:
+instance/
+.webassets-cache
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.pytest*
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+dot_graph.dot
